@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/mlruns/0/6ff80b6dd34849bbad5f1b1d39f3e39a/artifacts
+end_time: 1689079621107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ff80b6dd34849bbad5f1b1d39f3e39a
+run_name: gregarious-mole-403
+run_uuid: 6ff80b6dd34849bbad5f1b1d39f3e39a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689079615058
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/mlruns/0/5d67f9252f364537a40f7851c2cf3122/artifacts
+end_time: 1689080896970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d67f9252f364537a40f7851c2cf3122
+run_name: beautiful-hog-222
+run_uuid: 5d67f9252f364537a40f7851c2cf3122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689080891843
+status: 3
+tags: []
+user_id: HP

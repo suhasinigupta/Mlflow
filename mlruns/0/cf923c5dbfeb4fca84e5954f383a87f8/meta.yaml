@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/mlruns/0/cf923c5dbfeb4fca84e5954f383a87f8/artifacts
+end_time: 1689078845862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf923c5dbfeb4fca84e5954f383a87f8
+run_name: tasteful-gnat-41
+run_uuid: cf923c5dbfeb4fca84e5954f383a87f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689078835098
+status: 3
+tags: []
+user_id: HP
